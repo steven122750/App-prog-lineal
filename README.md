@@ -27,7 +27,7 @@ Este proyecto es una aplicación web que resuelve problemas de **Programación L
 ## 📥 Instalación y Ejecución
 Para ejecutar el proyecto en tu máquina local:
 ```sh
-1. Clona este repositorio: `git clone https://github.com/tuusuario/solver-programacion-lineal.git`
+1. Clona este repositorio: `https://github.com/steven122750/App-prog-lineal.git`
 2. Abre el archivo `index.html` en tu navegador favorito.
 ```
 
